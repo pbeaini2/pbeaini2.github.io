@@ -1,2 +1,2 @@
-# pbeaini2.github.io
-Personal Website/ Tech Blog
+# Welcome to My Personal Website/ Tech Blog!
+ This is the first website I launch. Hope it works
