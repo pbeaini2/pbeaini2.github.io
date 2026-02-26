@@ -1,6 +1,6 @@
 
 ---
-title: " Hello Beautiful People - My First Mini-Blog"
+title: " Hello All - My First Mini-Blog"
 date : 2026-02-10
 ---
 
